@@ -1,0 +1,9 @@
+Macera Oyununa Hoş Geldiniz!
+Kendinizi gizemli bir mağarada buldunuz.
+Bir sonraki hamlenizi seçin:
+Olasi hamleler:
+1. Mağaranın derinliklerine git.
+2. Çıkış ara.
+3. Dinlen.
+Seçiminizi girin: 
+Geçersiz seçim! Oyun Bitti!

@@ -1,0 +1,12 @@
+Macera Oyununa Hoş Geldiniz!
+Kendinizi gizemli bir mağarada buldunuz.
+Bir sonraki hamlenizi seçin:
+Olasi hamleler:
+1. Mağaranın derinliklerine git.
+2. Çıkış ara.
+3. Dinlen.
+Seçiminizi girin: 
+Çıkış arıyorsunuz...
+Bu aşamada kurtulmak için %80 şansınız var:
+ Şansınızı denemek için 1 ile 10 arasinda bir sayı girin:
+ Bir yol buldunuz kazandınız!

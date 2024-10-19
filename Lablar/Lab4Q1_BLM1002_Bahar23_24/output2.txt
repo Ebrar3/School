@@ -1,0 +1,7 @@
+48
+Hata! Operator dogru degil
+0
+45
+0 ile bolum hatasi, sonuc 0 olarak basilacak
+0
+5
