@@ -1,0 +1,10 @@
+Matematik Oyununa Hoş Geldiniz!
+Bir çocuğa istediği şekilde sorular sorup cevabını tahmin etmesini isteyeceksiniz...
+Bir sonraki hamlenizi seçin:
+Olası hamleler:
+1. Toplama.
+2. Tek/Çift Bulma.
+3. Küçük Sayı Bulma.
+Seçiminizi girin: Tek mi çift mi olduğunu bulmak istediğiniz sayıyı giriniz.
+Tahmini hesap sonucunuzu giriniz(0-Çift,1-Tek)
+Tahmininiz tek sayı, Kazandınız.
