@@ -1,5 +1,0 @@
-Bir işlem seçin:
-1. İki nokta arasındaki uzaklığı hesapla
-2. Bir sayının tersini bul
-Girilen secim: 8
-Geçersiz seçim!

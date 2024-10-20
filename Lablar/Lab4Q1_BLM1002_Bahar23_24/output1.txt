@@ -1,9 +1,0 @@
-54
--5
--300
-2
-0 ile bolum hatasi, sonuc 0 olarak basilacak
-0
-150
-Hata! Operator dogru degil
-5
